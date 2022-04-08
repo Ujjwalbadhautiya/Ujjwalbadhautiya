@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ujjwal Badhautiya
 - 👀  Interested in Front End Development and Computer Vision(OpenCV)
--Also a bit experienced in Front End.
+- Also a bit experienced in Front End.
 
 
 <!--
