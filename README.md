@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ujjwal Badhautiya
-- 👀  Interested in Front End Development
-- 🌱 Still Learning ReactJS
+- 👀  Interested in Front End Development and Computer Vision(OpenCV)
+-Also a bit experienced in Front End.
 
 
 <!--
